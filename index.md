@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/SwiftDevStudent/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-![SwiftDevLogo](/5C4275F0-3D76-4457-8323.jpeg)
+![SwiftDevLogo](5C4275F0-3D76-4457-8323-85BBB95A7FEA.jpeg)
 [One Volume One Issue](Shiurim1Volume.json)
 
 [All Shiurim Working](/ShiurimWorking.json)
