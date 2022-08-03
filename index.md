@@ -26,6 +26,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 [Link](url) and ![Image](src)
+
+
 [Link](url) and ![Image](GlattBiteLogo.png)
 
 
