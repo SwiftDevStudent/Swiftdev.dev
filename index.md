@@ -25,6 +25,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[Link](url) and ![Image](src)
+[privacy-policy](privacy-policy) and ![Image](src)
 
 
