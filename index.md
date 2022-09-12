@@ -1,6 +1,6 @@
 # SwiftDev
 
-You can use the [editor on GitHub](https://github.com/SwiftDevStudent/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/SwiftDevStudent/Swiftdev.dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ![SwiftDevLogo](5C4275F0-3D76-4457-8323-85BBB95A7FEA.jpeg)
 [Apps](/apps/index.md)
