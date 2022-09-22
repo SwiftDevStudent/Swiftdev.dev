@@ -1,5 +1,5 @@
 # SwiftDev
-![Image](SwiftDev Logo.PNG)
+![Image](SwiftDevLogo.PNG)
 ## Apps
 - [Libraried](libraried.md)
 
