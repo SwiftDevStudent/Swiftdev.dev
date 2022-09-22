@@ -1,7 +1,7 @@
 # SwiftDev
 ![Image](SwiftDevLogo.png)
 ## Apps
-- [Libraried](libraried.md)
+- [Libraried](/Libraried/)
 
 <style>
  .sidebar{
