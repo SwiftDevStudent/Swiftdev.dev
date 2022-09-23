@@ -30,6 +30,14 @@ So whether you’re a Developer or a Designer copying code will definitely come 
 
 SwiftUI is a trademark of Apple Inc.
 
-Contact: [apps@swiftdev.dev](mailto:apps@swiftdev.dev)
 
-[privacy-policy](privacy-policy) 
+
+
+
+
+
+
+
+
+[Privacy Policy](privacy-policy) 
+Contact: [apps@swiftdev.dev](mailto:apps@swiftdev.dev)
