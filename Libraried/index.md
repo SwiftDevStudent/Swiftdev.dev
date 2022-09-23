@@ -1,4 +1,5 @@
-# <img src="https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg" width="100"> Libraried
+<img src="https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg" width="100"> 
+# Libraried
 ## SwiftUI Components
 
 When a learning a new language it can be hard to understand how and why things work. Libraried is here to help overcome that. With an ever growing list of SwiftUl components it couldn’t be easier to get started. 
