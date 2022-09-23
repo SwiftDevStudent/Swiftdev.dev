@@ -1,4 +1,4 @@
-# <img src="https://apps.swiftdev.dev/SwiftDevLogo.png" width="100"> SwiftDev
+# <img src="https://apps.swiftdev.dev/SwiftDevLogo.png" width="100">
 
 
 
