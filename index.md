@@ -2,8 +2,7 @@
 
 
 
-## Apps
-- [Libraried](/Libraried/)
+## [Libraried](/Libraried/)
 
 <style>
  .sidebar{
