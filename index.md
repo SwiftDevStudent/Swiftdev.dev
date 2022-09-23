@@ -1,6 +1,6 @@
-# SwiftDev
-![Image](SwiftDevLogo.png)
-<img src="https://apps.swiftdev.dev/SwiftDevLogo.png" width="48">
+# <img src="https://apps.swiftdev.dev/SwiftDevLogo.png" width="48"> SwiftDev
+
+
 
 ## Apps
 - [Libraried](/Libraried/)
