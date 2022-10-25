@@ -1,3 +1,4 @@
+<meta name="apple-itunes-app" content="app-id=id1642862540">
 <img src="https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg" width="100"> 
 # Libraried
 ## SwiftUI Components
