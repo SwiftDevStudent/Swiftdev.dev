@@ -1,0 +1,24 @@
+[
+    {
+        "isShowing": false,
+        "title": "Some Title",
+        "description": "Some long description here",
+        "color": {
+            "red": 255,
+            "green": 0,
+            "blue": 0
+        },
+        "imageURL": "https"
+    },
+    {
+        "isShowing": false,
+        "title": "Some Title",
+        "description": "Some long description here",
+        "color": {
+            "red": 255,
+            "green": 0,
+            "blue": 0
+        },
+        "imageURL": "https"
+    }
+]
