@@ -7,7 +7,8 @@
             "red": 134,
             "green": 182,
             "blue": 255,
-        "imageURL": "https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg"
+        "imageURL": "https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg",
+        "urlToGoTo": "https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg"
     },
     {
         "id": 2,
@@ -19,6 +20,7 @@
             "green": 0,
             "blue": 0,
        
-        "imageURL": "https"
+        "imageURL": "https",
+        "urlToGoTo": "https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg"
     }
 ]
