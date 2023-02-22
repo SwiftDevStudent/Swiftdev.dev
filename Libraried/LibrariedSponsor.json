@@ -1,14 +1,14 @@
 [
     {
-        "isShowing": false,
-        "title": "Some Title",
-        "description": "Some long description here",
+        "isShowing": true,
+        "title": "NY Swifty",
+        "description": "Join top iOS developers at NYSwifty in New York. Learn new skills, stay updated on industry trends, connect with peers. Keynotes, workshops, and networking opportunities. Register now and elevate your iOS development.",
         "color": {
-            "red": 255,
-            "green": 0,
-            "blue": 0
+            "red": 134,
+            "green": 182,
+            "blue": 255
         },
-        "imageURL": "https"
+        "imageURL": "https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg"
     },
     {
         "isShowing": false,
