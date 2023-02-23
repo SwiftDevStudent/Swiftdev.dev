@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "isShowing": true,
+        "isShowing": false,
         "title": "NY Swifty",
         "description": "Join me and other iOS developers at NYSwifty in New York. Learn new skills, stay updated on industry trends, connect with peers. Keynotes, workshops, and networking opportunities. Register now and elevate your iOS development.",
         "backgroundColor": {
@@ -55,5 +55,33 @@
        
         "imageURL": "https://images.unsplash.com/photo-1673754472327-a0d3f5659fa3",
         "urlToGoTo": "https://apps.swiftdev.dev/Libraried/LibrariedLogo.jpg"
+    },
+    {
+    "id": 3,
+        "isShowing": true,
+        "title": "Suzie Bytes",
+        "description": "Join me and other iOS developers at NYSwifty in New York. Learn new skills, stay updated on industry trends, connect with peers. Keynotes, workshops, and networking opportunities. Register now and elevate your iOS development.",
+        "backgroundColor": {
+            "red": 69,
+            "green": 49,
+            "blue": 90
+        },
+        "secondaryColor": {
+            "red": 54,
+            "green": 49,
+            "blue": 94
+        },
+        "titleColor": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "descriptionColor": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "imageURL": "https://twitter.com/suziebytes/header_photo",
+        "urlToGoTo": "https://twitter.com/suziebytes"
     }
 ]
