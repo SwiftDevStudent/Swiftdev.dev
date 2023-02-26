@@ -58,7 +58,7 @@
     },
     {
     "id": 3,
-        "isShowing": true,
+        "isShowing": false,
         "title": "Suzie Chuuor 🦁",
         "description": "Meet Susie Chhuor, a passionate iOS Developer who built an innovative and user-friendly app. With exceptional skills and a commitment to excellence, Susie is dedicated to delivering top-quality solutions and is ready for new challenges.",
         "backgroundColor": {
