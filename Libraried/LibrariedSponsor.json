@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "isShowing": true,
+        "isShowing": false,
         "title": "NY Swifty",
         "description": "Join me and other iOS developers at NYSwifty in New York. Learn new skills, stay updated on industry trends, connect with peers. Keynotes, workshops, and networking opportunities. Register now and elevate your iOS development.",
         "backgroundColor": {
